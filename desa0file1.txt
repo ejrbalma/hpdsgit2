@@ -1,0 +1,500 @@
+  136  OCTAVE
+  137  OCTAVE
+  138  dir
+  139  cd ..
+  140  pwd
+  141  cd ..
+  142  pwd
+  143  dir
+  144  ls
+  145  cd Applications/
+  146  ls
+  147  pkg install -force io
+  148  pkg list
+  149  pkg list
+  150  octave
+  151  brew install -forge io
+  152  port
+  153  sudo port search octave
+  154  sudo port search octave-io
+  155  sudo port search octave-io
+  156  sudo port -v install octave-io
+  157  install Xcode
+  158  Install Xcode
+  159  sudo xcode-select --install
+  160  octave
+  161  octave
+  162  octave
+  163  octave
+  164  oc
+  165  octave
+  166  octave
+  167  octave
+  168  octave
+  169  octave
+  170  ping 
+  171  octave
+  172  octave
+  173  python
+  174  cd Documents/
+  175  cd DATABASES/
+  176  cd Adience
+  177  cd age
+  178  pwd
+  179  cd ..
+  180  cd age
+  181  pwd
+  182  cd feature
+  183  ls
+  184  pwd
+  185  octave
+  186  source tensorflow/bin/activate
+  187  cd tensorflow/
+  188  ls
+  189  python prueba.py
+  190   pip install --upgrade tensorflow
+  191   pip install --upgrade tensorflow
+  192  python prueba.py
+  193  python
+  194  pip install tensorflow
+  195  sudo pip install tensorflow
+  196  pip install --upgrade tensorfloe
+  197  pwd
+  198  cd ..
+  199  pip install --upgrade tensorflow
+  200  pip uninstall six
+  201  pisudo -H pip install --ignore-installed six
+  202  sudo -H pip install --ignore-installed six
+  203  sudo pip install --upgrade tensorflow
+  204  sudo easy_install --upgrade six
+  205  sudo pip install --upgrade tensorflow
+  206  sudo -H pip install --ignore-installed six
+  207  sudo pip install --upgrade tensorflow --ignore-installed six
+  208  cd tensorflow/
+  209  ls
+  210  python prueba.py
+  211  deactivate
+  212  ocatve
+  213  octave
+  214  octave
+  215  ocatve
+  216  octave
+  217  ssh ejrbalma@i7-lab5.dis.ulpgc.es
+  218  ssh pedro@mozart.dis.ulpgc.es
+  219  ssh ejrbalma@dis.ulpgc.es
+  220  ssh ejrbalma@serdis.dis.ulpgc.es
+  221  nano .ssh/known_hosts 
+  222  ssh ejrbalma@serdis.dis.ulpgc.es
+  223  ssh ejrbalma@serdis.dis.ulpgc.es
+  224  ssh a075531@serdis.dis.ulpgc.es
+  225  ssh ejrbalma@serdis.dis.ulpgc.es
+  226  ssh ejrbalma@i7-lab5.dis.ulpgc.es
+  227  ssh ejrbalma@i7-lab5.dis.ulpgc.es
+  228  ssh ejramon@vector.iusiani.ulpgc.es
+  229  ssh ejramon@vector.iusiani.ulpgc.es
+  230  ssh ejrbalma@i7-lab5.dis.ulpgc.es
+  231  ssh ejramon@clusterx.iusiani.ulpgc.es
+  232  ssh ejrbalma@i7-lab5.dis.ulpgc.es
+  233  ssh mozart.dis.ulpgc.es
+  234  ssh mozart.dis.ulpgc.es
+  235  ssh ejrbalma@i7-lab5.dis.ulpgc.es
+  236  octave
+  237  ls
+  238  cd D
+  239  cd Documents/DATABASES/
+  240  ls
+  241  cd Groups/
+  242  pwd
+  243  python
+  244  cd Dropbox/
+  245  ls
+  246  cd PycharmProjects/
+  247  ls
+  248  cd deteccion_caras/
+  249  ls
+  250  python preprocesaImagenes.py 
+  251  port select python
+  252  which python
+  253  which python
+  254  which python
+  255  cd /usr/local/bin/python
+  256  ls
+  257  pwd
+  258  cd /usr/local/bin/
+  259  ls
+  260  cd ..
+  261  cd home
+  262  ls
+  263  pwd
+  264  cd ..
+  265  cd ..
+  266  ls
+  267  cd Users/
+  268  cd ejrbalma/Dropbox/
+  269  ls
+  270  cd PycharmProjects/
+  271  ls
+  272  cd deteccion_caras/
+  273  ls
+  274  python preprocesaImagenes.py 
+  275  select --list python
+  276  sudo port select --list python
+  277  sudo port select python python27
+  278  sudo port select --list python
+  279  python preprocesaImagenes.py 
+  280  sudo port select --list python
+  281  sudo port select python python27-apple
+  282  sudo port select --list python
+  283  python preprocesaImagenes.py 
+  284  sudo port select --list python
+  285  otool -L
+  286  python preprocesaImagenes.py 
+  287  python-config --ldflags
+  288  python preprocesaImagenes.py 
+  289  /usr/local/bin/python2.7 preprocesaImagenes.py 
+  290  /usr/bin/python2.7 preprocesaImagenes.py 
+  291  /usr/bin//python2.7 preprocesaImagenes.py 
+  292  pip install numpy
+  293  pip upgrade numpy
+  294  udo pip install numpy --upgrade --ignore-installed
+  295  sudo pip install numpy --upgrade --ignore-installed
+  296  python
+  297  python
+  298  sudo easy_install numpy
+  299  cd ..
+  300  pwd
+  301  cd ..
+  302  ls -l
+  303  pwd
+  304  cd ..
+  305  ls
+  306  pwd
+  307  ce dnvs
+  308  cd envs
+  309  ls
+  310  cd initialize 
+  311  cd ..
+  312  virtualenv --version
+  313  virtualenv mipython
+  314  source mipython/bin/activate
+  315  pip install numpy
+  316  pip install scipy
+  317  pip install matplotlib
+  318  pip install scikit-learn
+  319  pip install -U scikit-image
+  320  pwd
+  321  cd mipython/lib/python2.7/site-packages/
+  322  pwd
+  323  ln -s /usr/local/lib/python2.7/site-packages/cv.py cv.py
+  324  ln -s /usr/local/lib/python2.7/site-packages/cv2.so cv2.so
+  325  pip install dlib
+  326  pip install pip
+  327  pip install -U pip
+  328  pip upgrade -U pip
+  329  pip upgrade  pip
+  330  pip install -U pip
+  331  pip version
+  332  pip --version
+  333  pip --help
+  334  pip search pip
+  335  pip list
+  336  stop
+  337  exit
+  338  cd /usr/bin/
+  339  ls
+  340  ls py* -l
+  341  pip install numpy
+  342  ls
+  343  pwd
+  344  cd /Users/ejrbalma/
+  345  ls
+  346  workon mipython
+  347  source mipython/bin/initialice
+  348  cd mipython/bin/
+  349  ls
+  350  cd ..
+  351  pwd
+  352  cd ..
+  353  source mipython/bin/activate
+  354  pip install dlib
+  355  python
+  356  cd mipython/bin/
+  357  ls
+  358  deactivate
+  359  brew update
+  360  nano ~/.bash_profile
+  361  cat ~/.bash_profile
+  362  source ~/.bash_profile
+  363  brew install python3
+  364  brew upgrade python3
+  365  brew install cmake
+  366  brew upgrade cmake
+  367  brew install boost
+  368  brew install boost-python --with-python3
+  369  brew list |grep 'boost'
+  370  pwd
+  371  cd ..
+  372  cd ..
+  373  cd ..
+  374  pwd
+  375  cd ejrbalma/
+  376  workon mipython/
+  377  source mipython/bin/activate
+  378  ls
+  379  pip install dlib
+  380  python
+  381  pip install boost-python
+  382  pip install boost
+  383  pip install cmake
+  384  pip install boost-python
+  385  pip install boost-python --with-python3
+  386  python
+  387  pip install numpy
+  388  pip install scipy
+  389  pip install scikit-image
+  390  pip install dlib
+  391  python
+  392  python
+  393  brew upgrade
+  394  nano ~/.bash_profile
+  395  source ~/.bash_profile
+  396  brew install python
+  397  brew link python
+  398  bre unlink python
+  399  brew unlink python
+  400  brew link --overwrite python
+  401  brew link --overwrite --dry-run python
+  402  brew link --overwrite python
+  403  brew install python3
+  404  brew list
+  405  brew list |grep 'boost'
+  406  pwd
+  407  ls
+  408  cd mipython/bin/
+  409  ls
+  410  cd ..
+  411  pwd
+  412  cd ..
+  413  source mipython/bin/activate
+  414  pip install numpy
+  415  pip install scipy
+  416  pip install scikit-image
+  417  pip install dlib
+  418  python
+  419  python
+  420  sudo port select --list python
+  421  sudo port select python python27
+  422  sudo port select --list python
+  423  python
+  424  sudo port select python python27-apple
+  425  sudo port select --list python
+  426  python-config --ldflags
+  427  exit
+  428  python
+  429  brew cask install xquartz
+  430  brew install gtk+3 
+  431  which python
+  432  which python3
+  433  source mipython/bin/activate
+  434  pip scikit-learn
+  435  pip install scikit-learn
+  436  pip install ipython
+  437  deactive
+  438  deactivate 
+  439  brew install dlib
+  440  workon mipython
+  441  source mipython/bin/activate
+  442  pip install dlib
+  443  python
+  444  deactivate
+  445  brew linkapps python
+  446  brew linkapps python3
+  447  python
+  448  source mipython/bin/activate
+  449  python
+  450  exit
+  451  bash --login '/Applications/Docker/Docker Quickstart Terminal.app/Contents/Resources/Scripts/start.sh'
+  452  bash --login '/Applications/Docker/Docker Quickstart Terminal.app/Contents/Resources/Scripts/start.sh'
+  453  source mipython/bin/activate
+  454  python
+  455  exit
+  456  ocatve
+  457  octave
+  458  cd DEV-B
+  459  cd GIT
+  460  cd DEV-B
+  461  git pull origin
+  462  git log --oneline --graph -20
+  463  ls -l
+  464  git log --oneline --graph
+  465  git put origin
+  466  git pull origin
+  467  git status
+  468  git add Capitulo-11.txt 
+  469  git status
+  470  git status
+  471  git add Capitulo-1.txt 
+  472  cta Capitulo-1.txt 
+  473  cat Capitulo-1.txt 
+  474  git commit -m "UPATE Chap-1, with paragraph 14"
+  475  git push origin 
+  476  git log --oneline -10
+  477  git checkout master
+  478  git merge featur2
+  479  git log --oneline -10
+  480  git push origin master
+  481  git log --oneline -10
+  482  git pull origin
+  483  git log --oneline -10
+  484  cat Capitulo-1.txt 
+  485  git log --oneline
+  486  git status
+  487  git commit -a -m "UPDATE Chapter 11 with paragraph 4 and 5"
+  488  git push origin master
+  489  git commit -a -m "UPDATE Chapter 11 with paragraph 6 and 7"
+  490  git push origin master
+  491  cat Capitulo-11.txt 
+  492  git pull origin
+  493  git pull origin
+  494  git status
+  495  git commit -a -m "UPDATE Chapter 9 include paragraph 3, 4 and 5"
+  496  git commit -a -m "UPDATE Chapter 9 include paragraph  4 and 5"
+  497  git status
+  498  git push origin master
+  499  cat Capitulo-9.txt 
+  500  git log --oneline -10
+  501  cd GIT
+  502  cd MiLibro
+  503  git status
+  504  git reset Indice.txt 
+  505  git status
+  506  cat Indice.txt 
+  507  git add Indice.txt 
+  508  git Cap-6.txt 
+  509  git add Cap-6.txt 
+  510  git Cap-7.txt 
+  511  git add Cap-7.txt 
+  512  git status
+  513  git reset
+  514  git status
+  515  git add Indice.txt 
+  516  cat Indice.txt 
+  517  git reset --hard
+  518  git status
+  519  git log --oneline -20
+  520  cat Cap-1.txt 
+  521  git checkout e763b31 Cap-1.txt 
+  522  cat Cap-1.txt 
+  523  git checkeout HEAD Cap-1.txt 
+  524  git checkout HEAD Cap-1.txt 
+  525  cat Cap-1.txt 
+  526  git status
+  527  git reset e763b31
+  528  cat Cap-
+  529  cat Cap-1.txt 
+  530  ls -l
+  531  git status
+  532  git log --oneline -20
+  533  git add Cap-1.txt 
+  534  git status
+  535  git log --oneline -20
+  536  git checkout 423586e
+  537  git log --oneline -20
+  538  git status
+  539  git reset 423586e
+  540  git log --oneline -20
+  541  git status
+  542  git add .
+  543  git commit -m "ADD 7 y 8"
+  544  git log --oneline -20
+  545  git reset --hard 423586e 
+  546  git log --oneline -20
+  547  git status
+  548  ls -l
+  549  git log --oneline -20
+  550  git commit --amend
+  551  git log --oneline -5
+  552  git status
+  553  git add .
+  554  git commit --amend
+  555  cd ..
+  556  ls -l
+  557  git init ./DESA-A
+  558  git init ./DESA-B
+  559  cls
+  560  clear
+  561  cd ..
+  562  cd GIT
+  563  pwd
+  564  git clone https://ejrbalma@bitbucket.org/ejrbalma/2017git2.git DESA-A
+  565  cd DESA-A
+  566  git log --one line
+  567  ls -l
+  568  git log --oneline
+  569  git remote
+  570  clear
+  571  git remote -v
+  572  git config --get user.name 
+  573  git config user.name "DESA-A"
+  574  git config user.email "DESA-A@ulpgc.es"
+  575  cd ..
+  576  pwd
+  577  git init --bare ./MIREPO.git
+  578  cd MIREPO.git/
+  579  ls -l
+  580  cd ..
+  581  cd DESA-A
+  582  git push ../MIREPO.git/ master
+  583  cd ..
+  584  MIREPO.git/
+  585  ls
+  586  cd MIREPO.git/
+  587  ls -l
+  588  cd ..
+  589  CD DESA-A
+  590  git remote -v
+  591  pwd
+  592  cd DESA-A/
+  593  git remote -v
+  594  clear
+  595  git remote add desa-b https://github.com/ejrbalma/2017GIT2
+  596  git remote -v
+  597  git remote add copia /Users/ejrbalma/GIT/MIREPO.git/
+  598  git remote -v
+  599  clear
+  600  git remote
+  601  git log --oneline -5
+  602  git fetch desa-b 
+  603  git log --oneline -5
+  604  cat Indice.txt 
+  605  git checkout desa-b/master
+  606  git log --oneline -5
+  607  cat Indice.txt 
+  608  git log --oneline --graph -5
+  609  git checkout master
+  610  git log --oneline --graph -5
+  611  git pull desa-b
+  612  git pull desa-b master
+  613  git log --oneline --graph -5
+  614  git remote
+  615  git push copia master
+  616  git log --oneline --graph -5
+  617  cd ..
+  618  s -l
+  619  ls
+  620  cd hpdsgit2/
+  621  git remote
+  622  git remote -v
+  623  git status
+  624  git add .
+  625  git commit -m "ADD file componentes.txt"
+  626  git remote 
+  627  git log --oneline
+  628  git push origin master
+  629  git remote
+  630  git remote add desa1 https://github.com/ejrbalma/hpdsgit2.git
+  631  git log --oneline
+  632  git push copia master
+  633  git log --oneline
+  634  git log --oneline
+  635  history >> desa0file1.txt
