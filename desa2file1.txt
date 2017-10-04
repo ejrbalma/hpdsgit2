@@ -1,0 +1,9 @@
+total 128
+-rw-r--r--  1 ejrbalma  staff     14  4 oct 19:24 componentes.txt
+-rw-r--r--  1 ejrbalma  staff  12366  4 oct 19:24 desa0file1.txt
+-rw-r--r--  1 ejrbalma  staff    569  4 oct 19:24 desa0file2.txt
+-rw-r--r--  1 ejrbalma  staff    338  4 oct 19:24 desa1fich1.txt
+-rw-r--r--  1 ejrbalma  staff  26053  4 oct 19:24 desa1file2.txt
+-rw-r--r--  1 ejrbalma  staff    569  4 oct 19:24 desa1file3.txt
+-rw-r--r--  1 ejrbalma  staff      0  4 oct 19:31 desa2file1.txt
+-rw-r--r--  1 ejrbalma  staff    204  4 oct 19:24 desafile2.txt
