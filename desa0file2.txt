@@ -1,0 +1,10 @@
+total 112
+drwxr-xr-x   9 ejrbalma  staff    306  4 oct 19:14 .
+drwxr-xr-x  23 ejrbalma  staff    782  4 oct 14:35 ..
+drwxr-xr-x  15 ejrbalma  staff    510  4 oct 19:03 .git
+-rw-r--r--@  1 ejrbalma  staff     14  4 oct 14:40 componentes.txt
+-rw-r--r--   1 ejrbalma  staff  12366  4 oct 18:15 desa0file1.txt
+-rw-r--r--   1 ejrbalma  staff      0  4 oct 19:14 desa0file2.txt
+-rw-r--r--   1 ejrbalma  staff    338  4 oct 18:49 desa1fich1.txt
+-rw-r--r--   1 ejrbalma  staff  26053  4 oct 18:49 desa1file2.txt
+-rw-r--r--   1 ejrbalma  staff    204  4 oct 18:46 desafile2.txt
