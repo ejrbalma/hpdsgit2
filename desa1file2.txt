@@ -498,3 +498,503 @@
  1343  git add .
  1344  git commit -m "ADD file1"
  1345  history > desa1file2.txt
+  856  git log --oneline
+  857  git rebase -i
+  858  git rebase -i master
+  859  git log --oneline
+  860  git push /Users/ejrbalma/GIT/Copia-2017GIT2.git/ master
+  861  git status
+  862  git status
+  863  git add Cap-1.txt 
+  864  cat Cap-1.txt 
+  865  git reset Cap-1
+  866  git reset Cap-1.txt 
+  867  cat Cap-1.txt 
+  868  git status
+  869  git add .
+  870  git status
+  871  git reset
+  872  git status
+  873  cat Cap-1.txt 
+  874  git add .
+  875  cat Cap-1.txt 
+  876  git status
+  877  git reset --hard
+  878  git status
+  879  cat Cap-1.txt 
+  880  git status
+  881  git status
+  882  git add .
+  883  git status
+  884  git reset Cap-4.txt 
+  885  git status
+  886  git reset
+  887  git status
+  888  git add Cap-1.txt 
+  889  git add Cap-2.txt 
+  890  git status
+  891  git reset
+  892  git add Cap-1.txt 
+  893  git add Cap-2.txt 
+  894  git status
+  895  git reset --hard
+  896  cat Cap-1.txt 
+  897  cat Cap-2.txt 
+  898  ls -l
+  899  cat Cap-4.txt 
+  900  git status
+  901  git add Cap-1.txt 
+  902  git status
+  903  git reset --hard
+  904  cat Cap-1.txt 
+  905  cat Cap-2.txt 
+  906  git add Cap-4.txt 
+  907  git reset
+  908  git status
+  909  cat Cap-4.txt 
+  910  clear
+  911  git status
+  912  git add .
+  913  git reset
+  914  git status
+  915  git commit -a -m "ADD new capitulo, el 4"
+  916  git add .
+  917  git commit  -m "ADD new capitulo, el 4"
+  918  git log --oneline
+  919  git reset HEAD~1
+  920  git status
+  921  cat Cap-4.txt 
+  922  git log --oneline
+  923  git reflogs
+  924  git reflog
+  925  git checkout 48b5831
+  926  git status
+  927  git log
+  928  git log --oneline
+  929  git checkout 48b5831
+  930  git add .
+  931  git commit  -m "ADD new capitulo, el 4"
+  932  git log --oneline
+  933  git add .
+  934  git commit  -m "UPDATE capitulo 1 formato estandar"
+  935  git add .
+  936  git commit  -m "UPDATE capitulo 2 formato estandar"
+  937  git log --oneline
+  938  git reset HEAD~2
+  939  git log --oneline
+  940  git status
+  941  cat Cap-1.txt 
+  942  cat Cap-2.txt 
+  943  git checkout -- Cap-2.txt 
+  944  git add Cap-1.txt 
+  945  git status
+  946  git commit -m "UPDATE Cap-1 con el formato estandar"
+  947  git log --oneline
+  948  git add .
+  949  git commit -m "UPDATE Cap-2 con el formato estandar"
+  950  git log --oneline
+  951  git status
+  952  git reset --hard HEAD~2 
+  953  git status
+  954  git log --oneline
+  955  cat Cap-1.txt 
+  956  cat Cap-2.txt 
+  957  git log --oneline
+  958  git commit --amend
+  959  git log --oneline -10
+  960  git commit --amend
+  961  git log --oneline -10
+  962  git commit --amend -m "ADD Cap-4.txt"
+  963  git log --oneline -10
+  964  git status
+  965  ls -l
+  966  git add Cap-1.txt 
+  967  git status
+  968  git log --oneline 
+  969  git commit --amend 
+  970  git log --oneline 
+  971  git commit --amend --no-edit
+  972  git log -p -1
+  973  git add Cap-2.txt 
+  974  git commit --amend --no-edit
+  975  git log -p -1
+  976  git log --oneline 
+  977  git reset head~1
+  978  git status
+  979  git add Cap-4.txt 
+  980  git commit -m "ADD new Chapter, number 4"
+  981  git add Cap-1.txt 
+  982  git commit -m "UPDATE chapter 1 in format standar"
+  983  git add Cap-2.txt 
+  984  git commit -m "UPDATE chapter 2 in format standar"
+  985  git log --oneline
+  986  git log --oneline
+  987  git rebase -i master
+  988  git remote -v
+  989  git remotw
+  990  git remote
+  991  git remote
+  992  cd ..
+  993  ls -l
+  994  cd ..
+  995  cd GIT
+  996  cd MiLibro/
+  997  git push https://ejrbalma@bitbucket.org/ejrbalma/2017git2.git master
+  998  cd ..
+  999  git clone https://ejrbalma@bitbucket.org/ejrbalma/2017git2.git ./Milibro-B
+ 1000  cd Milibro-B/
+ 1001  git config user.name "Desarrollador B"
+ 1002  git config user.email "DesaB@ulpgc.es"
+ 1003  ls -l
+ 1004  git remote -v
+ 1005  git remote -v
+ 1006  cd ..
+ 1007  cd MiLibro/
+ 1008  ls -l
+ 1009  git remote -v
+ 1010  git remote origin https://ejrbalma@bitbucket.org/ejrbalma/2017git2.git
+ 1011  git remote add origin https://ejrbalma@bitbucket.org/ejrbalma/2017git2.git
+ 1012  git remote -v
+ 1013  git remote -v
+ 1014  git remote add repoB https://github.com/ejrbalma/2017GIT2.git
+ 1015  git remote -v
+ 1016  cd ..
+ 1017  cd Milibro-B/
+ 1018  git remote -v
+ 1019  git remote d origin
+ 1020  cd ..
+ 1021  cd ..
+ 1022  cd GIT/
+ 1023  cd .. 
+ 1024  cd MiRepositorio/
+ 1025  cd .
+ 1026  cd ..
+ 1027  cd MiL
+ 1028  ls -l
+ 1029  cd GIT
+ 1030  ls -l
+ 1031  ls -l
+ 1032  git clone https://github.com/ejrbalma/2017GIT2.git MiLibroB
+ 1033  cd MiLibroB
+ 1034  git remote -v
+ 1035  cd ..
+ 1036  cd MiLibro
+ 1037  git remote 
+ 1038  cd ../MiLibroB
+ 1039  git remote add repoA https://ejrbalma@bitbucket.org/ejrbalma/2017git2.git
+ 1040  cd ..
+ 1041  git init --bare ./COPIA-A
+ 1042  git init --bare ./COPIA-B
+ 1043  cd MiLibro
+ 1044  git remote add copia /Users/ejrbalma/GIT/COPIA-A/
+ 1045  cd ..
+ 1046  cd MiLibroB
+ 1047  git remote add copia /Users/ejrbalma/GIT/COPIA-B//
+ 1048  git remote -v
+ 1049  cd ..
+ 1050  cd MiLibro
+ 1051  git remote -v
+ 1052  git config get user.name
+ 1053  git config --get user.name
+ 1054  cd ../MiLibroB
+ 1055  get config user.name "desaB"
+ 1056  git config user.name "desaB"
+ 1057  git config user.email "desaB@ulpgc.es"
+ 1058  git log --oneline
+ 1059  git remote
+ 1060  git pull repoA
+ 1061  git log --oneline
+ 1062  ls
+ 1063  cd ../MiLibro
+ 1064  git push origin master
+ 1065  git log --oneline
+ 1066  cd ..
+ 1067  cd MiLibroB
+ 1068  ls
+ 1069  git pull desaA 
+ 1070  git remote
+ 1071  git pull repoA 
+ 1072  git pull repoA master
+ 1073  git log --oneline
+ 1074  git push origin master
+ 1075  git log --oneline
+ 1076  git status
+ 1077  git commit -a -m "UPDATE Indice hasta capitulo 5"
+ 1078  git commit -a -m "UPDATE Indice hasta capitulo 5"
+ 1079  git add Cap-5.txt 
+ 1080  git commit -m "ADD Capitulo 5"
+ 1081  git log --oneline
+ 1082  git push origin master
+ 1083  git log --oneline
+ 1084  cd ../MiLibro
+ 1085  git log --oneline -10
+ 1086  git remote 
+ 1087  git fetch repoB
+ 1088  ls -l
+ 1089  cat Indice.txt 
+ 1090  git log --oneline -10
+ 1091  git checkout repoB/master
+ 1092  git log --oneline -10
+ 1093  ls -
+ 1094  ls -l
+ 1095  cat Indice.txt 
+ 1096  cat Cap-
+ 1097  cat Cap-5.txt 
+ 1098  git checkout master
+ 1099  git log --oneline -10
+ 1100  git merge epoB/master
+ 1101  git merge repoB/master
+ 1102  git log --oneline -10
+ 1103  ls -l
+ 1104  git push orgin master
+ 1105  git push origin master
+ 1106  git log --oneline -10
+ 1107  git add Indice.txt 
+ 1108  git commit -m "UPDATE con nuevo capitulo"
+ 1109  git add Cap-6.txt 
+ 1110  git commit -m "ADD cap-6.txt"
+ 1111  git log --oneline
+ 1112  git log --oneline -a0
+ 1113  git log --oneline -10
+ 1114  git push origin master
+ 1115  cd ../MiLibroB
+ 1116  git remote
+ 1117  git pull repoA master
+ 1118  git log --oneline -10
+ 1119  cd ..
+ 1120  cd MiLibro
+ 1121  git log --oneline -10
+ 1122  git status
+ 1123  git add Cap-5.txt 
+ 1124  git commit -m "UPDATE Cap-5"
+ 1125  git commit -a -m "UPDATE Cap-6"
+ 1126  git push origin master
+ 1127  git log --oneline -10
+ 1128  cd ../MiLibroB
+ 1129  git log --oneline
+ 1130  cd ../MiLibroB
+ 1131  cat Cap-5.txt 
+ 1132  ls -l
+ 1133  cat Cap-6.txt 
+ 1134  git push --rebase origin
+ 1135  git pull --rebase origin
+ 1136  cat Cap-6.txt 
+ 1137  cat Cap-6.txt master
+ 1138  git pull --rebase origin master
+ 1139  cat Cap-6.txt
+ 1140  ls -l
+ 1141  git pull --rebase repaA
+ 1142  git pull --rebase repoA
+ 1143  git pull --rebase repoA master
+ 1144  git log --oneline
+ 1145  cd ../MiLibro
+ 1146  git log --oneline -10
+ 1147  git add Cap-5.txt 
+ 1148  git commit - "NEW UPDATE cap-5.txt"
+ 1149  git commit -m "NEW UPDATE cap-5.txt"
+ 1150  git add .
+ 1151  git commit -m "NEW UPDATE cap-6.txt"
+ 1152  git push origin master
+ 1153  cd ../MiLibroB
+ 1154  git add Indice.txt 
+ 1155  git commit -m "UPDATE Indice add cap-7"
+ 1156  git add Indice.txt 
+ 1157  git commit -m "UPDATE Indice add cap-7"
+ 1158  git add Cap-7.txt 
+ 1159  git commit -m "ADD cap-7"
+ 1160  git log --oneline -10
+ 1161  git pull --rebase repoA master
+ 1162  git log --oneline -10
+ 1163  cat Cap-5.txt 
+ 1164  cat Cap-6.txt 
+ 1165  git push origin master
+ 1166  git log --oneline -10
+ 1167  cd ../MiLibro
+ 1168  git log --oneline -10
+ 1169  git pull repoB
+ 1170  git log --oneline -10
+ 1171  git pull repoB master
+ 1172  git log --oneline -10
+ 1173  git push origin master
+ 1174  git log --oneline -10
+ 1175  cd ../MiLibroB
+ 1176  git log --oneline -10
+ 1177  git pull repoA master
+ 1178  git log --oneline -10
+ 1179  git remote -v
+ 1180  git push copia master
+ 1181  cd ../MiLibro
+ 1182  git push copia master
+ 1183  git status
+ 1184  cd ../MiLibroB
+ 1185  git status
+ 1186  cd ..
+ 1187  cd MiLibro
+ 1188  git checkout -b featur1
+ 1189  git branch
+ 1190  git log --oneline -10
+ 1191  git status
+ 1192  git Cap-8.txt 
+ 1193  git add Cap-8.txt 
+ 1194  git commit -m "ADD Cap8.txt"
+ 1195  git log --oneline -10
+ 1196  git commit -a -m "UPDATE Cap8.txt 4 parrafos"
+ 1197  git log --oneline -10
+ 1198  git checkout master
+ 1199  git log --oneline -10
+ 1200  git checkout -b feature2
+ 1201  git branch
+ 1202  git log --oneline -10
+ 1203  git status
+ 1204  git commit -a -m "UPDATE Indice add Cap8"
+ 1205  git log --oneline -10
+ 1206  git checkout featur1
+ 1207  git branch rename featur1 feature1
+ 1208  git branch -m feature1
+ 1209  git barnch
+ 1210  git branch
+ 1211  git branch feature11
+ 1212  git log --oneline --grapch -a0
+ 1213  git log --oneline --grapch -10
+ 1214  git log --oneline --graph -10
+ 1215  git branch
+ 1216  git checkout feature11
+ 1217  git branch
+ 1218  git log --oneline --graph -10
+ 1219  git checkout -d feature11
+ 1220  git branch
+ 1221  git checkout feature1
+ 1222  git branch -d feature11
+ 1223  git branch
+ 1224  git checkout feature2
+ 1225  git log --oneline -10
+ 1226  git checkout master
+ 1227  git branh -d feature2
+ 1228  git branch -d feature2
+ 1229  git checkout feature2
+ 1230  cat Indice.txt 
+ 1231  git checkout master
+ 1232  cat Indice.txt 
+ 1233  git branch -D feature2
+ 1234  cat Indice.txt 
+ 1235  git log --oneline -10
+ 1236  git checkout feature1
+ 1237  git log --oneline -10
+ 1238  git checkout master
+ 1239  git merge feature1
+ 1240  git log --oneline -10
+ 1241  git branch -d feature1
+ 1242  git branch 
+ 1243  git log --oneline -10
+ 1244  git push origin master
+ 1245  git push origin copia
+ 1246  git push copia master
+ 1247  cd ../MiLibroB
+ 1248  git log --oneline -10
+ 1249  git pull repoA 
+ 1250  git pull repoA master
+ 1251  git log --oneline -10
+ 1252  git push origin master
+ 1253  git push copia master
+ 1254  git log --oneline -10
+ 1255  cd ../MiLibro
+ 1256  git log --oneline -10
+ 1257  git pull repoB master
+ 1258  git log --oneline -10
+ 1259  git checkout git log --oneline -10
+ 1260  git log --oneline -10
+ 1261  git log --oneline -10
+ 1262  cat Cap-6.txt 
+ 1263  git checkout d1ec40c Cap-6.txt 
+ 1264  git log --oneline -10
+ 1265  git status
+ 1266  cat Cap-6.txt 
+ 1267  git checkout HEAD Cap-6.txt 
+ 1268  cat Cap-6.txt 
+ 1269  dir
+ 1270  ls -l
+ 1271  git checkout d1ec40c 
+ 1272  ls -l
+ 1273  git checkout master
+ 1274  ls -l
+ 1275  git log --oneline -10
+ 1276  git log --oneline -10
+ 1277  git reset 423586e
+ 1278  git status
+ 1279  git log --oneline -10
+ 1280  git reset master
+ 1281  git log --oneline -10
+ 1282  git reset 1af8448
+ 1283  git log --oneline -10
+ 1284  git log --oneline -10
+ 1285  git reset 423586e
+ 1286  git log --oneline -10
+ 1287  ls
+ 1288  ls -l
+ 1289  cat Cap-8
+ 1290  cat Cap-8q
+ 1291  cat Cap-8.txt 
+ 1292  cd ..
+ 1293  ls -l
+ 1294  history
+ 1295  ls -l
+ 1296  git log --oneline --10
+ 1297  ls -l
+ 1298  cd MiLibro
+ 1299  ls -l
+ 1300  git log --oneline --10
+ 1301  git log --oneline -10
+ 1302  git add Indice.txt 
+ 1303  git status
+ 1304  cd ..
+ 1305  ls -l
+ 1306  git clone https://ejrbalma@bitbucket.org/ejrbalma/hpdsgit2.git
+ 1307  cd hpdsgit2/
+ 1308  ls -l
+ 1309  dir
+ 1310  git remote
+ 1311  cd ..
+ 1312  git init --bare copia.git
+ 1313  cd copia.git/
+ 1314  ls -l
+ 1315  cd ..
+ 1316  ls -l
+ 1317  cd hpdsgit2/
+ 1318  git remote
+ 1319  git add copia /Users/ejrbalma/GIT/copia.git/
+ 1320  git remote add copia /Users/ejrbalma/GIT/copia.git/
+ 1321  git remote -v
+ 1322  cd ..
+ 1323  ls -l
+ 1324  mkdir desa1
+ 1325  cd desa1
+ 1326  git init
+ 1327  git remote desa1 https://ejrbalma@bitbucket.org/ejrbalma/hpdsgit2.git
+ 1328  git remote
+ 1329  git remote add origin https://github.com/ejrbalma/hpdsgit2.git
+ 1330  git remote -v
+ 1331  git remote add desa1 https://ejrbalma@bitbucket.org/ejrbalma/hpdsgit2.git
+ 1332  git remote -v
+ 1333  git log --oneline
+ 1334  git remote -v
+ 1335  git remote rename desa1 desa0
+ 1336  git remote -v
+ 1337  git pull desa0 master
+ 1338  git log --oneline 
+ 1339  git push origin master
+ 1340  git log --oneline
+ 1341  dir
+ 1342  ls -l >desa1fich1.txt
+ 1343  git add .
+ 1344  git commit -m "ADD file1"
+ 1345  history > desa1file2.txt
+ 1346  git status
+ 1347  git add .
+ 1348  git commit -m "NOVALE TEXT"
+ 1349  git log --oneline
+ 1350  git commit --amend "ADD file2"
+ 1351  git commit --amend -m "ADD file2"
+ 1352  git log --oneline
+ 1353  ls -l >>desa1fich1.txt
+ 1354  cat desa1fich1.txt 
+ 1355  history >> desa1file2.txt
